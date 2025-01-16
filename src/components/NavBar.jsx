@@ -121,10 +121,10 @@ const NavBar = () => {
             </a>
             <a
               onClick={() => setShowMenu(false)}
-              href="#project"
+              href="#projects"
               className="px-4 py-2 rounded-full inline-block"
             >
-              Project
+              Services
             </a>
           </ul>
         </div>
