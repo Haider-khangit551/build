@@ -100,7 +100,7 @@ const NavBar = () => {
           <ul className="flex flex-col items-center gap-2 mt-5 mx-5 text-lg font-medium">
             <a
               onClick={() => setShowMenu(false)}
-              href="#header"
+              href="#Header"
               className="px-4 py-2 rounded-full inline-block"
             >
               Home
