@@ -57,7 +57,7 @@ const Footer = () => {
                     <div className='flex justify-start items-center '>
 
                         <img src={assets.blueearth} className="h-20 w-auto" alt="logo" />
-                        <h1 className=' text-2xl text-white mb-3'>BLUE EARTH MEP</h1>
+                        <h1 className=' text-[13px] text-white mb-3'>BLUE EARTH MEP SERVICES & CONSULTANT</h1>
                     </div>
                     <p className="text-center md:mt-[-10px] text-gray-300 mt-4 text-sm md:text-[17px] leading-relaxed">
                         Building quality, safety, and reliability into every project. Your trusted partner for residential and commercial construction. Committed to excellence, integrity, and delivering exceptional results with every step of the process.
