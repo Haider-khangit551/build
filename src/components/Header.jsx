@@ -24,7 +24,7 @@ const Header = () => {
           }}
         >
           <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4 md:px-8 lg:px-12 text-white">
-            <h1 className="text-2xl sm:text-3xl text-black md:text-4xl lg:text-5xl font-bold leading-tight">
+            <h1 className="text-2xl sm:text-3xl text-blue-700 md:text-4xl lg:text-5xl font-bold leading-tight">
               YOUR TRUSTED MEP PARTNER.
             </h1>
 
