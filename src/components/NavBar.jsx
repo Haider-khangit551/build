@@ -55,7 +55,7 @@ const NavBar = () => {
               alt=""
             />
 
-            <p className='md:ml-[-50px] text-xl text-[#1D4ED8] font-bold md:text-xl'>BLUE EARTH MEP</p>
+            <p className='md:ml-[-50px] text-[10px] text-[#1D4ED8] font-bold md:text-[13px]'>BLUE EARTH MEP SERVICES & CONSULTANT</p>
           </div>
 
 
