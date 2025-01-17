@@ -17,14 +17,14 @@ const Header = () => {
           whileInView={{ opacity: 1, y: 0 }}
           className="relative w-[90%] h-[400px] md:h-[px] lg:h-[400px] p-10 mx-auto mt-[80px] lg:mt-[150px]"
           style={{
-            backgroundImage: "url('/blueearthhero.jpeg')",
+            backgroundImage: "url('/4khero1.jpeg')",
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
           }}
         >
           <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4 md:px-8 lg:px-12 text-white">
-            <h1 className="text-2xl sm:text-3xl text-blue-700 md:text-4xl lg:text-5xl font-bold leading-tight">
+            <h1 className="text-2xl sm:text-3xl text-black0md:text-4xl lg:text-5xl font-bold leading-tight">
               YOUR TRUSTED MEP PARTNER.
             </h1>
 
