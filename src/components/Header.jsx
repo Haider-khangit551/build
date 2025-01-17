@@ -17,7 +17,7 @@ const Header = () => {
           whileInView={{ opacity: 1, y: 0 }}
           className="relative w-[90%] h-[400px] md:h-[px] lg:h-[400px] p-10 mx-auto mt-[80px] lg:mt-[150px]"
           style={{
-            backgroundImage: "url('/4khero1.jpeg')",
+            backgroundImage: "url('/bg2.jpeg')",
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
