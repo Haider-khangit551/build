@@ -1,49 +1,3 @@
-// import React from 'react'
-// import { assets } from '../assets/assets'
-
-// const Footer = () => {
-//     return (
-//         <div className='pt-10 px-4 md:px-20 lg:px-32 w-full bg-[#273272] overflow-hidden' id='footer'>
-//             <div className='container mx-auto flex flex-col md:flex-row justify-between items-center'>
-//                 <div className='w-full md:w-1/3 mb-8 md:mb-0'>
-//                     <img src={assets.blueearth} className='size-24 ml-[-10px]' alt="logo" />
-//                     <p className='text-gray-300 mt-4  text-[17px] text-justify leading-relaxed'>Building quality, safety, and reliability into every project. Your trusted partner for residential and commercial construction. Committed to excellence, integrity, and delivering exceptional results with every step of the process.</p>
-//                 </div>
-//                 <div className='w-full md:w-1/5 mb-8 md:mb-0'>
-//                     <h3 className='text-white text-lg font-bold mb-4'>Links</h3>
-//                     <ul className='flex flex-col gap-2'>
-//                         <a href="#Header" className='text-gray-300 text-[17px]'>Home</a>
-//                         <a href="#about" className='text-gray-300 text-[17px]'>About US</a>
-//                         <a href="#contact" className='text-gray-300 text-[17px]'>Contact Us</a>
-//                         <a href="#projects" className='text-gray-300 text-[17px]'>Project</a>
-//                     </ul>
-//                 </div>
-//                 <div className='w-full md:w-1/5 mb-8 md:mb-0'>
-//                     <h3 className='text-lg font-bold text-white mb-4'>Address</h3>
-//                     <ul className=''>
-//                         <li className='text-gray-300 text-[17px]'>blueearthmep@gmail.com</li>
-//                         <li className='text-gray-300 text-[17px]'>+91 8182836440</li>
-//                         <li className='text-gray-300 text-[17px]'>+91 9756388101</li>
-//                         <li><img src="" alt="" /></li>
-//                     </ul>
-//                     <div className='flex mt-3 gap-2'>
-//                         <a href=""><img src={assets.instaIcon} className='size-5 md:size-6' alt="" /></a>
-//                         <a href=""><img src={assets.facebookIcon} className='size-5 md:size-6' alt="" /></a>
-//                         <a href=""><img src={assets.twitterIcon} className='size-5 md:size-6' alt="" /></a>
-//                         <a href=""><img src={assets.linkdinIcon} className='size-5 md:size-6' alt="" /></a>
-//                     </div>
-//                 </div>
-//             </div>
-//             <div className='border-t border-gray-500 py-4 mt-10 text-center text-white'>
-//                 Copyright 2025 © BLUE EARTH. All Right Reserved.
-//             </div>
-//         </div>
-//     )
-// }
-
-// export default Footer
-
-
 import React from 'react';
 import { assets } from '../assets/assets';
 
@@ -57,7 +11,7 @@ const Footer = () => {
                     <div className='flex justify-start items-center '>
 
                         <img src={assets.blueearth} className="h-20 w-auto" alt="logo" />
-                        <h1 className=' text-[13px] text-white mb-3'>BLUE EARTH MEP SERVICES & CONSULTANT</h1>
+                        <h1 className=' text-xl text-white mb-3'>BLUE EARTH MEP SERVICES & CONSULTANT</h1>
                     </div>
                     <p className="text-center md:mt-[-10px] text-gray-300 mt-4 text-sm md:text-[17px] leading-relaxed">
                         Building quality, safety, and reliability into every project. Your trusted partner for residential and commercial construction. Committed to excellence, integrity, and delivering exceptional results with every step of the process.
